@@ -1,6 +1,7 @@
 @echo off
 chcp 65001
 
+echo 日本語化の適用範囲
 echo 1:すべて
 echo 2:UIのみ
 echo 3:EN
